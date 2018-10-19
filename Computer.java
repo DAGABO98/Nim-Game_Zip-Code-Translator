@@ -2,7 +2,6 @@
  * This program contains the movement dynamics for the computer player 
  * @author: Daniel Garces
  * @date: 10/12/2018
- * @UNI: dg3008
  */ 
 import java.util.Random;
 

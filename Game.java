@@ -3,7 +3,6 @@
  * and the player references. 
  * @author: Daniel Garces
  * @date: 10/12/2018
- * @UNI: dg3008
  */
 import java.util.Random;
 import java.util.Scanner;
